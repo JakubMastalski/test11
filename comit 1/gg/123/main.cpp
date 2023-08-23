@@ -1,21 +1,21 @@
 #include <iostream>
 
 using namespace std;
-string wyraz;
-int ciag;
+string wyrazz;
+int ciagg;
 int main()
 {
 
-   cin>>wyraz;
-   cin >>ciag;
+   cin>>wyrazz;
+   cin >>ciagg;
 
    int dlugosc=wyraz.length() ;
 
    for(int i=dlugosc;i>=0;i--)
    {
 
-     cout<<wyraz[i];
-     cout<<ciag;
+     cout<<wyrazz[i];
+     cout<<ciagg;
 
 
    }
