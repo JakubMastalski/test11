@@ -13,7 +13,7 @@ int main()
 
    for(int i=dlugosc;i>=0;i--)
    {
-
+///sdasdssa
      cout<<wyrazz[i];
      cout<<ciagg;
 
